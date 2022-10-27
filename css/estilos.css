@@ -1,0 +1,46 @@
+h1{
+    color: black;
+    text-shadow: 3px 3px 0px pink;
+    font-size: 3em;
+    letter-spacing: 10px;
+    font-style: italic;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#violeta{
+    color: blueviolet;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    font-style: normal;
+}
+.violeta, h3{
+    color: blueviolet;
+}
+.derecha{text-align: right;
+    font-size: 2em;
+
+}
+h4{
+    color: rgb(187, 7, 46);
+}
+
+body{
+    background:linear-gradient(rgb(180, 99, 154),rgb(236, 142, 214), rgb(212, 131, 205) );
+
+
+}
+.pintoras p{
+    color: blueviolet;
+    text-align: justify;
+    
+}
+
+.pintoras{
+    background-color: rgb(187, 131, 240);
+    border: 5px solid rgb(179, 14, 211) ;
+    padding: 20px;
+}
